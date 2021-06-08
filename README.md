@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - 💻   **I'm a back-end Develover**    
+
+ - 🇰🇷  **I'm working in South Korea**
+
+### How to reach me? 🤔
+
+- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dksms78@gmail.com)](mailto:fomagran6@gmail.com)
+
+- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://#.tistory.com/)](https://#.tistory.com/)
+ 
+![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true)
+ 
+
+
