@@ -28,5 +28,6 @@ Here are some ideas to get you started:
  
 ![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true)
  
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksms1)](https://solved.ac/dksms1/)
 
 
