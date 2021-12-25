@@ -1,33 +1,25 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
-<!--
-**hyung000620/hyung000620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- - 💻   **I'm a back-end Develover**    
-
- - 🇰🇷  **I'm working in South Korea**
-
-### How to reach me? 🤔
-
-- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dksms78@gmail.com)](mailto:fomagran6@gmail.com)
-
-- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://#.tistory.com/)](https://#.tistory.com/)
+<div align="center">
  
-![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true)
+  💻   **I'm a back-end Develover**    
+
+  🇰🇷  **I'm working in South Korea**
+</div>
+
+<div align="center">
+ 
+![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=tokyonight)
+ <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" >
+ </div>
+ 
+<div align="center">
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksms1)](https://solved.ac/dksms1/)
 
+</div>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hyung000620&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
