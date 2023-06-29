@@ -12,16 +12,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Pushster'&color=%236F90F7&size=32&center=true&height=100&lines=Hi+there%2C+I'm+Junhyung;Nice+to+meet+you)](https://git.io/typing-svg)
  
   </div>
-<br>
-<div align="center">
- 
-  💻   **I'm a back-end Develover**    
-
-  🇰🇷  **I'm working in South Korea**
-</div>
-<br>
-<br>
-<br>
 <div align="center" >
  
 ![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=tokyonight)
