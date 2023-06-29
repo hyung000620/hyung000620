@@ -15,8 +15,7 @@
 <div align= "left">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksms1)](https://solved.ac/dksms1/) 
-![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyung000620&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- 
+![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=white)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyung000620&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) 
 </div>
 
