@@ -10,7 +10,7 @@
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Pushster'&color=%236F90F7&size=32&center=true&height=100&lines=Hi+there%2C+I'm+Junhyung;Nice+to+meet+you)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="20%">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="30%">
  
 </div>
 <div align= "right">
