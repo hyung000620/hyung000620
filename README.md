@@ -12,22 +12,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Pushster'&color=%236F90F7&size=32&center=true&height=100&lines=Hi+there%2C+I'm+Junhyung;Nice+to+meet+you)](https://git.io/typing-svg)
  
   </div>
-<div align="center" >
- 
+<div align= "left">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksms1)](https://solved.ac/dksms1/) 
 ![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=tokyonight)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyung000620&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
  
- </div>
- 
-
-<br>
-<br>
-
-<div align="center">
- 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksms1)](https://solved.ac/dksms1/)
-
 </div>
+
