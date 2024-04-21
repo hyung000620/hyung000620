@@ -1,27 +1,27 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Pushster&display=swap" rel="stylesheet">
+<div align="center">
 
-<br>
-<br>
-<br>
-<br>
-<div align = "center" >
+<!-- Personalized banner image -->
+<div>
+  <img src="https://github.com/hyung000620/hyung000620/assets/81272766/9447f25b-3113-407f-80b5-615710a32415" alt="Banner Image">
+</div>
 
+  <!-- Baekjoon Online Judge badge -->
+  <div>
+    <a href="https://solved.ac/dksms1">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dksms1" alt="Solved.ac Profile">
+    </a>
+  </div>
+
+
+<div>
+  <!-- GitHub Streak stats -->
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=hyung000620&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak">
+  </a>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Pushster'&color=%236F90F7&size=32&center=true&height=100&lines=Hi+there%2C+I'm+Junhyung;Nice+to+meet+you)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="30%">
- 
-</div>
-<div align= "right">
-
-
-</div>
-<div align= "left">
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=white" alt="GitHub Stats">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hyung000620&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksms1)](https://solved.ac/dksms1/) 
-![hyung000620's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=white)
-
-
+  </div>
 </div>
+
