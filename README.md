@@ -19,8 +19,6 @@
   <img src="https://streak-stats.demolab.com/?user=hyung000620&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak">
   </a>
   
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hyung000620&show_icons=true&theme=white" alt="GitHub Stats">
   
   </div>
 </div>
